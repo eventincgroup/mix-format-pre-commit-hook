@@ -1,0 +1,6 @@
+- id: mix-format
+  name: Mix Format
+  entry: mix format
+  language: system
+  files: \.ex$|\.exs$
+  description: "Run mix format on Elixir files"
